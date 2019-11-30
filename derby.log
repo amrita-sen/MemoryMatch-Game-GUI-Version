@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 25 17:56:16 NZDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-016e-a0ea-da7a-000006ab6a88 
+on database directory C:\Users\amrit\OneDrive\Desktop\COMP603_2019_02 Program Design and Construction & Software Construction\Project - Stage2_Submitted_18Oct19\P54_18048443\PDCProjectStage2\PlayerHighScoresDB with class loader sun.misc.Launcher$AppClassLoader@29453f44 
+Loaded from file:/C:/Program%20Files/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=C:\Users\amrit\OneDrive\Desktop\COMP603_2019_02 Program Design and Construction & Software Construction\Project - Stage2_Submitted_18Oct19\P54_18048443\PDCProjectStage2
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
