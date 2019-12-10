@@ -6,7 +6,7 @@
 This is a Graphical User Interface (GUI) version of an intellectual, yet fun, tile matching game that is intended to train
 concentration, patience, and short-term memory as the player attempts to match tiles on a displayed tile board. The 
 program consists of 8 classes and uses a text file to allot each tile a "face-up" and "face-down" image. It also includes an 
-embedded database component to store the date, player's username, and test score. The top ten high scores for the 
+embedded database component to store the date, player's username, and score. The top ten high scores for the 
 leadership board and the last high score, displayed for an existing player, are retrieved from the database. <br/>
 
 **Goal of the game:** With every tile flip, memorise the location of an image, and eventually match all the tiles on the tile board.<br/>
